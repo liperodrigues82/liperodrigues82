@@ -1,12 +1,10 @@
+# Olá! 👋 Sou Felipe Rodrigues.
 
+👶 Dando meus primeiros passos por aqui.
 
-# 👋 Olá! Sou Felipe Rodrigues
+HTML5 |  CSS3  |  JavaScript... e atualizando...
 
- Dando meus primeiros passos por aqui.
-
-HTML /  CSS  /  JavaScript... e atualizando...
-
-<img src="https://64.media.tumblr.com/tumblr_lz02fsBZdu1qlxohso1_500.gif" height="250px" width="250px">
+<img src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif">
 
 
 
