@@ -1,7 +1,7 @@
-# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/headbang.gif" height="40px" width="40px">
+# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/headbang.gif"  align="right" width="100px">
 ## Sou Felipe Rodrigues.
 
-👶 Dando meus primeiros passos por aqui.
+<p align="right">👶 Dando meus primeiros passos por aqui.</p>
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif" height="30px" width="30px"> <strong>e atualizando...</strong>
