@@ -1,4 +1,4 @@
-# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/headbang.gif"  align="right" width="60px">
+# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/headbang.gif"  align="right" width="20px">
 ## Sou Felipe Rodrigues.
 
 
